@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+The warming sun returns again
+And melts away the snow
+The sea is freed from icy chains
+=======
+The warming sun returns again
+And melts away the snow
+The sea is freed from icy chains
+>>>>>>> 2c1f37e7cd4f41f068d89aaf48384c109b0653fb
+Winter is letting go
